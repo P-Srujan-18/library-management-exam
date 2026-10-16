@@ -1,2 +1,2 @@
 Library Management System
-Feature: Add and issue books
+Feature: Add, search and issue books
